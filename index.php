@@ -16,6 +16,8 @@
     <div class="card">
         <div class="container">
             <h1>Available Balance</h1>
+        </div>
+    </div>
 </body>
 </html>
 
